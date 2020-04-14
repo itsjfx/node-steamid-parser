@@ -1,0 +1,35 @@
+{
+  "name": "steamid-parser",
+  "version": "1.0.0",
+  "description": "Just a wrapper around node-steamid to aid in parsing Steam IDs",
+  "main": "index.js",
+  "dependencies": {
+    "is-number": "^7.0.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "steamid": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsjfx/node-steamid-parser.git"
+  },
+  "keywords": [
+    "steam",
+    "steamid",
+    "node-steamid",
+    "steamid-parser",
+    "jfx",
+    "node-steamid-parser",
+    "input"
+  ],
+  "author": "jfx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsjfx/node-steamid-parser/issues"
+  },
+  "homepage": "https://github.com/itsjfx/node-steamid-parser#readme"
+}
