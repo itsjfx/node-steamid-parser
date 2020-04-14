@@ -1,7 +1,7 @@
 # node-steamid-parser
 [![npm version](https://img.shields.io/npm/v/steamid-parser.svg)](https://npmjs.com/package/steamid-parser)
 
-Just a wrapper around node-steamid to aid in parsing steamids.
+Just a wrapper around node-steamid to aid in parsing Steam IDs.
 
 ```
 npm install steamid-parser
