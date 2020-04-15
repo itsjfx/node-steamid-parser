@@ -1,6 +1,6 @@
 {
   "name": "steamid-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just a wrapper around node-steamid to aid in parsing Steam IDs",
   "main": "index.js",
   "dependencies": {

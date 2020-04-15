@@ -36,7 +36,6 @@ class SteamIDParser {
 	get(input, options) {
 		return new Promise(async(resolve, reject) => {
 			options = Object.assign({}, this.options, options);
-			console.log(options);
 			let steamid;
 			if (!input || typeof input != 'string' && typeof input != 'number')
 				return reject(new Error("Invalid input"));
